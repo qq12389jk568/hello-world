@@ -10,3 +10,7 @@ char * strcpy(char *dst,const char *src)
  
     return ret;//[3]
 }
+
+/**
+远程edit
+**/
